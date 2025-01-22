@@ -16,5 +16,7 @@ public class UserInputSingleArrays{
 			
 			System.out.printf("Element at index %d = %s%n", i, names[i]);
 		}
+		
+		System.out.println("The element t the third position " + names[2]);
 	}
 }
