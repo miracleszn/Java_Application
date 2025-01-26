@@ -10,7 +10,7 @@ public class MultiDimensionalArrayManipulation{
 				
 			}
 		}
-		System.out.printf("The total numbers are %d", sum);
+		System.out.printf("The total numbers are %d", sum);  
 	}
 }
 	
