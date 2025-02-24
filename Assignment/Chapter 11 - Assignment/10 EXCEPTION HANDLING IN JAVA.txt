@@ -1,0 +1,10 @@
+NullPointerException -- this happens when you try to access a method or variable that is null
+ArrayIndexOutOfBoundsException == when you try to access an array with an index number that is not in bound
+ArithmeticException == this occurs when an arithmetic operation fails due bad maths, for example dividing a number by 0
+NumberFormatException == this happens when you try to convert a string to numeric type, but the string is not in a correct format, example is converting "miracle" to number
+IllegalArgumentException == this happen when a method is called with an invalid argument
+IllegalStateException == happens when a method is called at an inappropiate time
+FileNotFoundException == happens when your trying to access a file that is not found or dosen't exist
+NoSuchElementException == happens when your trying to access an element that does not exist
+ClassNotFoundException == this occurs when the JVM can't find the specified class at runtime
+StringIndexOutOfBoundsException == this occurs when you try to access a character in a string at an index that is out of bound
